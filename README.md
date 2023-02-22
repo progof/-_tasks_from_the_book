@@ -4,3 +4,7 @@
 ```bash
 make 1_task
 ```
+
+2_memory_and_pointers
+```bash
+make 2_task
